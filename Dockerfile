@@ -1,4 +1,5 @@
-FROM selenium/node-chrome
+#FROM selenium/node-chrome
+FROM timbru31/node-chrome:alpine
 
 # Create app directory
 WORKDIR /usr/src/app
