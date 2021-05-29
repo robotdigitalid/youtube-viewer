@@ -1,3 +1,5 @@
 *.lock
 *.log
 *.png
+node_modules
+.idea
